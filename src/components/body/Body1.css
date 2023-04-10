@@ -1,0 +1,23 @@
+.Body1-body4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Body1-body5 {
+    /* border: 1px solid blue;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    background-color: blue;
+    cursor: pointer; */
+}
+
+.Body1-body5 a {
+    background-color: blue;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    border-radius: 10px;
+    font-size: 17px;
+
+}

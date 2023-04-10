@@ -1,0 +1,36 @@
+.Body3-body1{
+    /* background-color: blue; */
+}
+.Body3-body3{
+    width: 102%;
+    height: auto;
+    margin-top: 22px;
+    padding: 0.3rem;
+}
+.Body3-body5{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 16px;
+}
+.Body3-body6{
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+}
+.Body3-body7{
+    /* background-color: blue; */
+}
+.Body3-body8{
+    /* background-color: blueviolet; */
+}
+.Body3-body9{
+    align-items: center;
+}
+.Body3-body10{
+    text-align: center;
+}
+.Body3-body10 Button{
+    font-size: 27px;
+    font-weight: 500;
+}

@@ -1,0 +1,29 @@
+.Body4-body1 img{
+    height: 40vh;
+}
+.Body4-body2{
+
+}
+.Body4-body4{
+    /* background-color: blue; */
+}
+.Body4-body4 img{
+    height: 40vh;
+}
+.Body4-body7 img{
+    height: 40vh;
+}
+.Body4-body8{
+    grid-row-gap: 22px;
+}
+.Body4-body9{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.text-center{
+    margin-top: 15px;
+}
+.Body4-body10{
+    text-align: center;
+}
