@@ -1,0 +1,31 @@
+.call1{
+    background-color: black;
+}
+.call2{
+    color: white;
+    font-size: 15px;
+}
+.call2 svg{
+    font-size: 23px;
+    margin-right: 5px;
+}
+.call3 svg{
+    font-size: 23px;
+    margin-right: 5px;
+}
+.call3{
+    color: white;
+    font-size: 15px;
+}
+.call4{
+    display: flex;
+    justify-content: space-around !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+}
+
+@media screen and (min-width:1000px) {
+    .call1{
+        display: none !important;
+    }
+}

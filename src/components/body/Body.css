@@ -1,6 +1,22 @@
-.h-50{
-    height: 100px !important;
+.Body-body1 img{
+    height: 74vh;
 }
-img{
-    height: 90vh;
+.carousel-indicators [data-bs-target] {
+    display: none;
+}
+.carousel-control-prev-icon {
+   display: none !important;
+}
+.Body-body1 .carousel-caption {
+    color: revert !important;
+}
+@media screen and (max-width:1000px) {
+    .Body-body1 img{
+        height: 50vh;
+    }
+    .Body-body1 .carousel-caption {
+        right: 0%;
+        left: 0%;
+        bottom: -1.75rem;
+    }
 }

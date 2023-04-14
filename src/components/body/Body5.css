@@ -1,25 +1,34 @@
 .Body5-body1{
     margin-left: 14.5px;
     margin-right: 14.5px;
-    margin-top: 20px;
+    padding-top: 20px;
 }
 .Body5-body2{
-    /* background-color: blue; */
+    background-color: aquamarine;
 }
 .Body5-body3 img{
     width: 100%;
-    height: 80vh;
+    height: auto;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 .Body5-body4{
     text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    color: olive;
+}
+.Body5-body11 h4{
+    color: darkgreen;
     font-size: 25px;
-    font-weight: 700;
+}
+.Body5-body12 a{
+    text-decoration: none;
 }
 .Body5-body5{
     text-align: center;
-    margin-bottom: 15px;
+    
+    padding: 30px;
 }
 .Body5-body6{
     border: 1px solid blue;
@@ -31,7 +40,8 @@
 .Body5-body6 a{
     text-decoration: none;
     font-size: 20px;
-    color: white;
+    color: white !important;
+    cursor: pointer;
 }
 .Body5-body7{
     grid-row-gap: 15px;
@@ -40,12 +50,25 @@
 .Body5-body8{
     display: flex;
     align-items: center;
-    /* background-color: blueviolet; */
+    justify-content: center;
+    background-color: aquamarine;
 }
 .Body5-body9{
-    /* background-color: green; */
+    background-color: antiquewhite;
 }
 .Body5-body10{
-    background-color: grey;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+.Body5-body11{
+   
+}
+.Body5-body13{
+    font-size: 30px;
+    font-weight: 800;
+    color: darkcyan;
+}
+
 

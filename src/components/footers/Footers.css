@@ -1,12 +1,42 @@
-.footer1{
-    text-align: -webkit-center;
-}
+
 .footer2{
     text-align: justify;
 }
 .footer3{
+    background-color: currentColor;
+    /* padding: 1px; */
+    /* align-items: center; */
+    padding: 10px;
     text-align: center;
 }
+.footer3 p{
+    color: white;
+    margin-bottom: 0rem !important;
+    
+}
+    
+
 .footer4{
     text-align: left;
+}
+.footer5{
+    row-gap: 25px;
+    padding: 10px;
+}
+.footer6{
+    background-color: darkslategrey;
+}
+.footer5{
+    color: white !important;
+}
+
+@media screen and (min-width:769px) {
+    .footer1{
+        text-align: -webkit-center;
+    }
+}
+@media screen and (max-width:1000px) {
+    .footer3{
+        margin-bottom: 36px !important;
+    }
 }

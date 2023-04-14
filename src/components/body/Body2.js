@@ -12,7 +12,7 @@ const Body2 = () => {
             <Container>
                 <Row className='Body2-body2'>
                     <Col md={4}>
-                        <Card>
+                        <Card className='Body2-body3'>
                             <Card.Body>
                                 <div className="Body2-body1">
                                     <EqualizerRoundedIcon />
@@ -26,7 +26,7 @@ const Body2 = () => {
                         </Card>
                     </Col>
                     <Col md={4}>
-                        <Card>
+                        <Card className='Body2-body3'>
                             <Card.Body>
                                 <div className="Body2-body1">
                                     <TouchAppRoundedIcon />
@@ -39,7 +39,7 @@ const Body2 = () => {
                         </Card>
                     </Col>
                     <Col md={4}>
-                        <Card>
+                        <Card className='Body2-body3'>
                             <Card.Body>
                                 <div className="Body2-body1">
                                     <TrackChangesRoundedIcon/>

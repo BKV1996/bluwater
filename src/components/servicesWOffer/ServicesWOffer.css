@@ -1,0 +1,15 @@
+.services1 .nav{
+    /* display: block; */
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    text-align: center;
+}
+.services2{
+    /* background-color: rgb(79, 92, 65); */
+}
+.services2 .nav-link{
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+}

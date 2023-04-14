@@ -11,6 +11,10 @@ import GlassMTiles from './components/glassMTiles/GlassMTiles';
 import WaterFeatureSpa from './components/waterFeatureSpa/WaterFeatureSpa';
 import Gallery from './components/gallery/Gallery';
 import Enquiry from './components/enquiry/Enquiry';
+import ServicesWOffer from './components/servicesWOffer/ServicesWOffer';
+import ReadMoreSol from './components/readMoreSol/ReadMoreSol';
+import AllPools from './components/allPools/AllPools';
+import FreeQuotes from './components/freeQuotes/FreeQuotes';
 
 
 function App() {
@@ -29,6 +33,10 @@ function App() {
         <Route path='/WaterFeatureSpa' element={<WaterFeatureSpa/>} />
         <Route path='/Gallery' element={<Gallery/>} />
         <Route path='/Enquiry' element={<Enquiry/>} />
+        <Route path='services' element={<ServicesWOffer/>} />
+        <Route path='/ReadMoreSol' element={<ReadMoreSol/>} />
+        <Route path='/AllPools' element={<AllPools/>} />
+        <Route path='/FreeQuotes' element={<FreeQuotes/>} />
       </Routes>
     </BrowserRouter>
     </>

@@ -9,10 +9,12 @@ import Body3 from '../body/Body3';
 import Body4 from '../body/Body4';
 import Footers from '../footers/Footers';
 import Headers from '../headers/Headers';
+import FooterCall from '../footers/FooterCall';
 
 const Home = () => {
   return (
     <>
+    
       <Headers/>
       <Body/>
       <Body1/>
@@ -23,6 +25,7 @@ const Home = () => {
       <Body6/>
       <Body7/>
       <Footers/>
+      <FooterCall/>
     </>
   )
 }

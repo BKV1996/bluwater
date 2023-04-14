@@ -1,5 +1,7 @@
 import React from 'react'
 import Headers from '../headers/Headers'
+import Footers from '../footers/Footers'
+import FooterCall from '../footers/FooterCall'
 
 const About = () => {
     return (
@@ -33,6 +35,8 @@ const About = () => {
                     swimmingpooldesign thatmaximises yourreturns onthemoneyspent and simplifies theentireswimmingpoolconstructionprocess.
                 </p>
             </div>
+            <Footers/>
+            <FooterCall/>
         </>
     )
 }

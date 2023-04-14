@@ -8,8 +8,8 @@ const Headers = () => {
     const navigate = useNavigate();
     return (
         <>
-            <Navbar bg="light" expand="lg">
-                <Container fluid>
+            <Navbar bg="dark" expand="lg" variant='dark' className='headers1' sticky="top">
+                <Container fluid className='headers2'>
                     <Navbar.Brand onClick={()=>navigate("/")}>BluWaterPools.com</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">

@@ -17,13 +17,28 @@
     grid-row-gap: 22px;
 }
 .Body4-body9{
-    font-size: 30px;
-    font-weight: 700;
+    font-weight: 800;
+    font-size: 34px;
     text-align: center;
+    color: blueviolet;
+    margin-bottom: 20px;
 }
 .text-center{
-    margin-top: 15px;
+    padding: 25px;
 }
 .Body4-body10{
     text-align: center;
+}
+.Body4-body11{
+    background-color: rgb(219, 235, 248);
+}
+.Body4-body12{
+    background-color: antiquewhite;
+}
+
+@media screen and (max-width:769px) {
+    .Body4-body9{
+        font-size: 30px;
+        font-weight: 800;
+    }
 }

@@ -1,5 +1,19 @@
 .Body6-body1{
-    width: auto;
-    height: 10rem;
-    background-color: blue;
+    background-color: rgb(78, 78, 116);
+    padding: 12px;
+}
+.Body6-body4{
+    text-align: center;
+    color: white;
+    font-size: 65px;
+    font-weight: 700;
+}
+.Body6-body5{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.Body6-body6{
+    row-gap: 40px;
 }

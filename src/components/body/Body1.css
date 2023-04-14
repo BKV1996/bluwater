@@ -1,3 +1,9 @@
+.Body1-body2{
+    font-weight: 800;
+    color: darkorchid;
+    font-size: 28px;
+    padding-top: 20px;
+}
 .Body1-body4 {
     display: flex;
     justify-content: center;
@@ -11,6 +17,7 @@
     padding: 15px;
     background-color: blue;
     cursor: pointer; */
+    padding: 15px;
 }
 
 .Body1-body5 a {
@@ -20,4 +27,12 @@
     border-radius: 10px;
     font-size: 17px;
 
+}
+.Body1-body6{
+    row-gap: 10px;
+    margin-bottom: 15px;
+    
+}
+.Body1-body7{
+    background-color: lavenderblush;
 }
